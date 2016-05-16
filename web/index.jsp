@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <p>Hola 123</p>
   </body>
 </html>
